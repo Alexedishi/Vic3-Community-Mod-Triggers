@@ -26,8 +26,20 @@ com_is_active = { # Community Outfit Mod
 	always = no
 }
 
+EACP_is_active_trigger = { # East Asian Clothes Patch
+    always = no
+}
+
+GGGG_is_active_trigger = { # Gas, Guns, Garb, & Grub
+    always = no
+}
+
 grefm_is_active = { # Greece, Byzantium, & the Balkans Flavor
 	always = no
+}
+
+is_usfp_active = { # Hail, Columbia!
+    always = no
 }
 
 JKFP_is_active_trigger = { # James's Korea Flavor Pack
@@ -36,6 +48,14 @@ JKFP_is_active_trigger = { # James's Korea Flavor Pack
 
 morgenrote_is_active = { # Morgenrote: Dawn of Flavor
 	always = no
+}
+
+newspapers_is_active_triger = { # Newspapers Mod
+    always = no
+}
+
+PCT_is_active_trigger = { # James's Pop Clothing Tweaks
+    always = no
 }
 
 RRK_is_active_trigger = { # Rally Round the King
