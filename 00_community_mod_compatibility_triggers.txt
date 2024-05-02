@@ -22,6 +22,10 @@ anzfp_is_active = { # Australia & New Zealand Flavor Pack
 	always = no
 }
 
+basileia_is_active = { # Basileia Romaion
+    always = no
+}
+
 com_is_active = { # Community Outfit Mod
 	always = no
 }
