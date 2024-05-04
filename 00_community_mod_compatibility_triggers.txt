@@ -17,6 +17,9 @@
 # Make sure your scripted trigger file is loaded AFTER this one. You can do this by adding zz_ to the filename.
 #
 
+anno1836_is_active = { # Anno 1836
+	always = no
+}
 
 anzfp_is_active = { # Australia & New Zealand Flavor Pack
 	always = no
