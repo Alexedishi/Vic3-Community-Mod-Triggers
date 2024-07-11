@@ -29,6 +29,10 @@ basileia_is_active = { # Basileia Romaion
     always = no
 }
 
+BPM_is_active_trigger = { # Better Politics Mod
+    always = no
+}
+
 com_is_active = { # Community Outfit Mod
 	always = no
 }
