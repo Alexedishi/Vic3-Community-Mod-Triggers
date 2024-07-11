@@ -41,6 +41,10 @@ GGGG_is_active_trigger = { # Gas, Guns, Garb, & Grub
     always = no
 }
 
+gilded_age_is_active_trigger = { # Gilded Age
+    always = no
+}
+
 grefm_is_active = { # Greece, Byzantium, & the Balkans Flavor
 	always = no
 }
