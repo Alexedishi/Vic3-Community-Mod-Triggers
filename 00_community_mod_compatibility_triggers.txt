@@ -76,7 +76,11 @@ PCT_is_active_trigger = { # James's Pop Clothing Tweaks
 RRK_is_active_trigger = { # Rally Round the King
 	always = no
 }
- 
+
+vtm_is_active_trigger = { # Victoria Tweaks Mod
+    always = no
+}
+
 WCR_is_active_trigger = { # Western Clothes: Redux
 	always = no
 }
