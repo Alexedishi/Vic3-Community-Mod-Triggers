@@ -53,7 +53,7 @@ grefm_is_active = { # Greece, Byzantium, & the Balkans Flavor
 	always = no
 }
 
-IEX_is_active_trgger = { # Industry Expanded
+IEX_is_active_trigger = { # Industry Expanded
 	always = no
 }
 
