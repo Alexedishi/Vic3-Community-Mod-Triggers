@@ -93,6 +93,10 @@ RRK_is_active_trigger = { # Rally Round the King
 	always = no
 }
 
+STMS_is_active_trigger = { # States That Make Sense
+    always = no
+}
+
 vtm_is_active_trigger = { # Victoria Tweaks Mod
     always = no
 }
